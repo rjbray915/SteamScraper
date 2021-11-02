@@ -1,0 +1,582 @@
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pieterw test app76 ( 216938 ),  216938
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+test2,  660010
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+test3,  660130
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+,  1118314
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Project Lilith Demo,  1690630
+Requires a 64-bit processor and operating systemProcessor: Intel Core i5-2500K | AMD Ryzen 5 1400Memory: 16 GB RAMGraphics: NVIDIA GeForce GTX 970 | AMD Radeon RX 570DirectX: Version 11Storage: 30 GB available spaceSound Card: DirectX compatibleAdditional Notes: System requirements are subject to change during the development of the game.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+THE ILLUSION,  1690640
+Requires a 64-bit processor and operating systemOS: Windows 10Processor: Intel® Core™ i7 7700Memory: 8 GB RAMGraphics: GTX 1060DirectX: Version 12Storage: 4 GB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Synthwaifu: Neon Space Fighter,  1690660
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Car Physics Simulator - Med-Size Car #1,  1690670
+OS: Same as Car Physics SimulatorProcessor: Same as Car Physics SimulatorMemory: Same as Car Physics Simulator MB RAMGraphics: Same as Car Physics Simulator
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tempo Demo,  1690680
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Piratopia Playtest,  1690700
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Incremental Cubes,  1690730
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mandacaru,  1690740
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Fantasy Grounds - The Griffon's Saddlebag Volume 4,  1690750
+OS: Windows 7x, 8x, or 10xProcessor: 2.0 GHz or higher processorMemory: 4 GB RAMGraphics: DirectX or OpenGL compatible card.DirectX: Version 9.0cNetwork: Broadband Internet connectionStorage: 2 GB available spaceSound Card: a sound card is required for voice communication using external programs like Google Hangouts, Skype or Discord.Additional Notes: Requirements vary by the add-ons installed and the number of players connecting to your game.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Alternate Card Back (KS exclu),  1690780
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hate Free Heroes: Agents of Aggro City,  1690790
+OS: Windows XP/Vista 7/8/10Processor: Core 2 Duo 1.8 GHz or higherMemory: 2 GB RAMGraphics: 1920×1080 or better video resolutionNetwork: Broadband Internet connectionStorage: 2 GB available spaceSound Card: Basic Sound Card
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Parking Slide,  1690820
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Idle Champions - Wyrmspeaker Arkhan Theme Pack,  1690840
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+AKIBA'S TRIP: Hellbound & Debriefed - Soundtrack & Artbook,  1690850
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+GUN GUN CREATE,  1690860
+Requires a 64-bit processor and operating system
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Figurine Scene Simulator Demo,  1690910
+Requires a 64-bit processor and operating systemOS: Windows 10Processor: I7-6700Graphics: Nvidia GTX 1650 6GBStorage: 20 GB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Boat Crew Demo,  1690920
+OS: Windows 10Processor: Intel Core i5 3570K / AMD FX 6300Memory: 8 GB RAMGraphics: Nvidia GTX 1050 / AMD RX 560DirectX: Version 11Storage: 1 GB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DELTARUNE (Chapter 1 & 2 DEMO),  1690940
+Requires a 64-bit processor and operating systemOS: Windows 7, 8, or 10Memory: 4 GB RAMGraphics: 512MBStorage: 200 MB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Naomi alternative outfit (Good Life outfit),  1690960
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Naomi alternative outfit (Awesome Life outfit),  1690961
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Alternative trees in the garden (Red Trees) and more,  1690962
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Alternative trees in the garden (Dead Tree),  1690963
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Alternative trees in the garden (Villager Tree),  1690964
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sigma World Online,  1690980
+Requires a 64-bit processor and operating system
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+marriedbook Boot Camp: Interactive Therapy,  1691000
+OS: Windows XP/Vista 7/8/10Processor: Core 2 Duo 1.8 GHz or higherMemory: 4 GB RAMGraphics: 1024x768 or better video resolutionNetwork: Broadband Internet connectionStorage: 3 GB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+On Scene - The Story of Fred & Karen,  1691010
+OS: Windows 8+Processor: i5 - 7+Memory: 16 GB RAMGraphics: Nvidia 3060Storage: 4 GB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Evertried Demo,  1691030
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+SonicLoop VJ - Realtime VJ content creator for streaming,  music videos and live performance
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hunt the Night Demo,  1691050
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Lost Ruins Demo,  1691070
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Chef Chen Demo,  1690170
+Requires a 64-bit processor and operating systemOS: Windows 10Processor: Intel Core i5-4460 / AMD A8-7500Memory: 8 MB RAMGraphics: GeForce GTX 750 Ti / Radeon HD 7850DirectX: Version 9.0Storage: 4 GB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Portal Walk,  1690190
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Emergency Crew Volcano Eruption,  1690240
+OS: Windows 7 or laterProcessor: 2000 MHzMemory: 1024 MB RAMDirectX: Version 9.0Storage: 1250 MB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dabado Puzzles Demo,  1690280
+Requires a 64-bit processor and operating systemOS: Windows 7 64-bitProcessor: Intel Core i3-6000 seriesMemory: 8 GB RAMGraphics: Intel HD 530 seriesDirectX: Version 11Storage: 1 GB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+duamo,  1690290
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+West Hunt- Exclusive Pack,  1690310
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pizza Empire!,  1690320
+Requires a 64-bit processor and operating system
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Stand Of Arms,  1690340
+OS: Windows10Processor: 处理器: Intel i7-6700 / AMD Ryzen 5 2600Memory: 16 GB RAMGraphics: NVIDIA GeForce GTX 1060 or AMD Radeon RX 570DirectX: Version 11Storage: 10 GB available spaceAdditional Notes: SSD (recommend)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gachimuchi Life Simulator,  1690360
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Twilight Tunnels,  1690370
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Escape to Mars,  1690390
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+REVO Playtest,  1690410
+Requires a 64-bit processor and operating systemOS: Windows 7 (64-bit)Processor: 3.4GHz Intel Core i7-3770Memory: 16 GB RAMGraphics: NVIDIA GeForce GTX 1060 3GBStorage: 500 MB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DIRT 5 - Wild Spirits Pack,  1690420
+Requires a 64-bit processor and operating system
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Relic Hunters Legend Playtest,  1690430
+DirectX: Version 9.0cStorage: 10 GB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Another Tomorrow,  1690440
+OS: Windows 10Processor: 1.5 GHzMemory: 2 GB RAMGraphics: OpenGL 2.1 or higher (available in most modern Windows systems)Storage: 1 GB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+窓の中の先にあるもの Demo,  1690450
+Requires a 64-bit processor and operating system
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Another Tomorrow Demo,  1690460
+OS: Windows 10Processor: 1.5 GHzMemory: 2 GB RAMGraphics: OpenGL 2.1 or higher (available in most modern Windows systems)Storage: 1 GB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Car Physics Simulator - Sports Car #1,  1690470
+OS: Same as Car Physics SimulatorProcessor: Same as Car Physics SimulatorMemory: Same as Car Physics Simulator MB RAMGraphics: Same as Car Physics Simulator
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The Leeds Devil,  1690480
+OS: Windows 10 64-bitProcessor: 64-bit Intel compatible Quad Core CPUMemory: 1 GB RAMDirectX: Version 11Storage: 100 MB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meteor Storm,  1690500
+Requires a 64-bit processor and operating systemOS: Windows 10Processor: i5Memory: 4 GB RAMGraphics: Intel IntegratedStorage: 250 MB available spaceSound Card: Any
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Yearning: A Gay Story,  1690530
+Requires a 64-bit processor and operating system
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Forensic EduSim,  1690580
+Requires a 64-bit processor and operating systemOS: Windows 10Processor: 8th Gen Intel i7Memory: 8 MB RAMGraphics: NVIDIA GTX 1070Storage: 2 GB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+代号608<CODE 608>Demo,  1689860
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Meridian 157: Chapter 3,  1689870
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Killer Gin Battle Arcade,  1689880
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Trash Magnate,  1689890
+Requires a 64-bit processor and operating systemOS: Windows 10Processor: Intel Core i5-8250UMemory: 4 GB RAMGraphics: Intel HDStorage: 2 GB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Knighty,  1689940
+OS: Windows 10 64-bitProcessor: Intel Core i7 or AMD equivalentMemory: 16 GB RAMGraphics: NVidia Geforce GTX 970 4GB or Radeon RX 480 4GBDirectX: Version 11Storage: 10 GB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Come Back Home Please Demo,  1689960
+OS: Windows XP, Vista, 7, or 10Processor: 2GHz+Memory: 3 GB RAMGraphics: 512MBStorage: 300 MB available spaceAdditional Notes: Requirements are not ready.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Yummy Mahjong,  1689980
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Soup!,  1690030
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gelly Break Deluxe,  1690060
+Requires a 64-bit processor and operating system
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Trainz 2019 DLC - Victorian Railways V class FL Black,  1690130
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+World of Warships — Prinz Eitel Friedrich,  1690140
+Requires a 64-bit processor and operating systemOS: Windows 7 x64 SP1 / 8.1 / 10Processor: Intel Core i5 3.4 GHz, AMD FX 6350 3.9 GHzMemory: 6 GB RAMGraphics: Nvidia GeForce GTX 660, AMD Radeon R9 270xDirectX: Version 11Network: Broadband Internet connectionStorage: 65 GB available spaceSound Card: DirectX 11.1Additional Notes: 1920×1080
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Futanari Vampire Girlfriend,  1690150
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Spirit of Europe - Origins,  1689280
+Requires a 64-bit processor and operating systemOS: Windows 10Processor: Intel Core i5/AMD Ryzen 5Memory: 8 GB RAMGraphics: Dedicated graphics card with DirectX 12 supportDirectX: Version 12Storage: 5 GB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+X-Plane 11 - Add-on: MSK Productions - Jinnah Intl Airport,  1689290
+OS: 64-bit recommendedProcessor: Dual Core processor recommendedGraphics: 8 GB+ VRAM recommended
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+X-Plane 11 - Add-on: MSK Productions - New Islamabad Intl Airport,  1689291
+OS: (64-bit recommended)Processor: (Dual Core processor recommended)Graphics: 8 GB+ VRAM recommended
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+X-Plane 11 - Add-on: MSK Productions - Sharjah Intl Airport,  1689292
+OS: (64-bit recommended)Processor: (Dual Core processor recommended)Graphics: 8 GB+ VRAM recommended
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The story of Bill Bear,  1689310
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gardens and Girls Soundtrack,  1689330
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Island of Winds,  1689340
+OS: Windows 10Processor: Intel Core i7-4790 / AMD Ryzen 1700X or greaterMemory: 16 GB RAMGraphics: NVIDIA GTX 1080 / AMD RX 5700XT or greaterStorage: 40 GB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+My life as an archeologist,  1689350
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Inquisitive Dave,  1689370
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The Outbound Ghost Demo,  1689380
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mythrealm,  1689390
+OS: Windows 10 - 64 BitProcessor: Quad-core Intel or AMD, 3.0 GHz or fasterMemory: 16 GB RAMGraphics: DirectX 11 or DirectX 12 compatible graphics cardDirectX: Version 11Storage: 5 GB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Severed Steel BETA,  1689400
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Armada,  1689410
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Road Bustle,  1689420
+OS: Windows Vista, 7, 8, 10Processor: Intel CPU Core i3-2100 or AMD equivalentMemory: 4 GB RAMGraphics: AMD Radeon HD 7870 (2GB) or NVIDIA GeForce GTX 660 (2GB)Storage: 166 MB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+RushOut Demo,  1689460
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Plead with the Elder Gods,  1689470
+OS: TBAProcessor: TBAGraphics: TBASound Card: TBA
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+乡间,  1689480
+OS: Processor: Memory: 16 GB RAMGraphics: DirectX: Version 11Storage: 2 GB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A Cure for Jessica,  1689520
+OS: Windows 10 64-bitProcessor: Intel Core i7 4930KMemory: 16 GB RAMGraphics: Nvidia GTX 770DirectX: Version 12Storage: 4 GB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Big Fish,  1689530
+OS: Windows 10Processor: intel i5Memory: 4 GB RAMGraphics: (Integrated): Intel HD Graphics or AMD (formerly ATI) Radeon HD Graphics (Discrete): Nvidia GeForce GTX 760 (or greater) or AMD Radeon HD 7600 (or greater)DirectX: Version 12Storage: 90 MB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Your Adventure,  1689550
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Draw Music,  1689570
+Requires a 64-bit processor and operating systemOS: window7/8/10Processor: i3Memory: 200 MB RAMGraphics: nVidia GT1030Storage: 300 MB available spaceSound Card: Realtek
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Wargs Playtest,  1689630
+Requires a 64-bit processor and operating systemOS: Win 7, Win 8.1, Windows 10Processor: Intel® Core™ i5Memory: 4 MB RAMGraphics: GeForce GTX 960Network: Broadband Internet connectionStorage: 15 GB available spaceSound Card: Any
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Wardens Will,  1689640
+OS: Windows 7 or HigherProcessor: Intel Pentium Core i3 2100 3.10GHz or AMD A8 3870K 3.0GHzMemory: 8 GB RAMGraphics: NVIDIA GeForce GTX 750ti or AMD Radeon HD 7900 SeriesDirectX: Version 12Storage: 10 GB available spaceSound Card: DirectX 9 sound device
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Centurion Rex,  1689650
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+13:ORIGIN Prologue,  1689680
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Gardens and Girls - Artbook 18+,  1689710
+OS: Windows 10, Windows 8, Windows 7 32-bitProcessor: Quad-core Intel or AMD processor, 2.5 GHz or fasterMemory: 4 GB RAMGraphics: 2 GbDirectX: Version 12Storage: 1 GB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ecila,  1689720
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mini Jumper,  1688810
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+镜地 Demo,  1688820
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+All Dream Long A Flower Storm,  1688850
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hanaby's Summer Festival - OST,  1688860
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+End Up,  1688880
+OS: Windows Vista / 7 / 8 / 10, 64-bitsProcessor: Intel Core i5Memory: 8 GB RAMGraphics: 1.5GB VRAM, NVIDIA Geforce GTX 660 / ATI Radeon HD 7850Storage: 2 GB available spaceSound Card: DirectX CompatibleAdditional Notes: Targetting 1080p @ 60 fps
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+End Up Demo,  1688890
+OS: Windows Vista / 7 / 8 / 10, 64-bitsProcessor: Intel Core i5Memory: 8 GB RAMGraphics: 1.5GB VRAM, NVIDIA Geforce GTX 660 / ATI Radeon HD 7850Storage: 2 GB available spaceSound Card: DirectX CompatibleAdditional Notes: Targetting 1080p @ 60 fps
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+SUFFERING 磨难之间 - 数字艺术设定集,  1688900
+OS: Windows 7+Processor: Intel i5+Graphics: Nvidia GTX 460 / Radeon HD 7800 or betterStorage: 4 MB available spaceAdditional Notes: DirectX 9.1+ or OpenGL 3.2+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A YEAR OF SPRINGS Soundtrack,  1688920
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A YEAR OF SPRINGS Demo,  1688930
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Come Back Home Please,  1688970
+OS: Windows XP, Vista, 7, or 10Processor: 2GHz+Memory: 3 GB RAMGraphics: 512MBStorage: 300 MB available spaceAdditional Notes: Requirements are not ready.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cube Runk,  1688980
+OS: Windows 10Processor: Intel Core i5-8400 or AMD Ryzen 5 2600Memory: 8 GB RAMGraphics: NVIDIA GeForce GTX 970 or AMD Radeon RX 570DirectX: Version 12Storage: 2 GB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Pax Nova - Beyond the Rift DLC,  1688990
+OS: Windows Vista, 7, 8 , 10 - 64 bitProcessor: 4.0 Ghz Intel Core i5 or equivalentMemory: 8 MB RAMGraphics: 1 GB NVIDIA GeForce GTX 660 or equivalentAdditional Notes: System requirements may be subject to change.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Namaiki Dark Elf Sisters,  1689000
+Processor: Core i3Memory: 2 GB RAMGraphics: 256MB VRAMDirectX: Version 9.0Additional Notes: 1280x720 Resolution
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+欢迎加入奇趣社,  1689010
+Storage: 30 MB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hidden Forest,  1689020
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+VR Eagles of Victorian England,  1689030
+OS: Microsoft Windows 7 or higherProcessor: Intel Core i5-4590 / AMD FX 8350 or higherMemory: 8 GB RAMGraphics: NVIDIA GTX  1050 or higherStorage: 9 GB available spaceSound Card: NVIDIA High Definition Audio
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Endless Soul Light Solitaire,  1689060
+OS: Windows 7 or laterProcessor: 2000 MHzMemory: 1024 MB RAMDirectX: Version 9.0Storage: 450 MB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+水银疗养院,  1689080
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Chrono Faction,  1689090
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Altarays,  1689140
+Requires a 64-bit processor and operating system
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Milena's manor house,  1689150
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Mira’s Workshop,  1689180
+OS: Windows 7 or laterProcessor: 2000 MHzMemory: 1024 MB RAMDirectX: Version 9.0Storage: 610 MB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Sweet House - Mystery DLC,  1689200
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Succubus With Guns Demo,  1689210
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Unholy Alliance - Tower Defense,  1689220
+OS: Microsoft 64bit Windows 10Processor: 64-bit processorMemory: 8 GB RAMGraphics: Dedicated OpenGL 4-compliant onboard graphicsDirectX: Version 11Storage: 500 MB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Raven's Hike,  1689270
+OS: Windows 10Processor: Dual CoreMemory: 2 GB RAMGraphics: Intel HD Graphics or equivalentStorage: 500 MB available spaceSound Card: any
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Beta Escape Playtest,  1688360
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The hardest game in the universe Demo,  1688370
+OS: windows 8.1Processor: intel celeron cpu 847 2.10ghzMemory: 4 GB RAMGraphics: intel hd graphics familyDirectX: Version 10Storage: 200 MB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Nightron Wars,  1688390
+Requires a 64-bit processor and operating systemOS: Win 10 x64Processor: To be announcedGraphics: To be announcedDirectX: Version 12Network: Broadband Internet connectionStorage: To be announced GB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+B.Y.O.O.L. - Best Years Of Our Lives,  1688400
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Creepy Tale 2 Soundtrack,  1688410
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Secret Trouble,  1688440
+Requires a 64-bit processor and operating systemOS: Windows 10 64-bitProcessor: Intel Core i5-4430 / AMD FX-6300Memory: 8 GB RAMGraphics: NVIDIA GeForce GTX 1060 3GB / AMD Radeon RX 480 4GBDirectX: Version 11Storage: 4 GB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The Crew 2 - Special Edition - Ubisoft Activation,  1688450
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The Crew 2 - New Gold Edition - Ubisoft Activation,  1688451
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Battlegrounds : First Blast,  1688460
+Requires a 64-bit processor and operating system
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Rat Prison,  1688470
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Dreamed,  1688490
+Requires a 64-bit processor and operating systemOS: Windows 10 64-bitMemory: 4 GB RAMGraphics: TBDDirectX: Version 11Storage: 500 MB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+RPG Sounds - CyberPunk -Sound Pack,  1688500
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+My Living Things,  1688530
+Requires a 64-bit processor and operating system
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Arid - Official Soundtrack,  1688560
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A YEAR OF SPRINGS,  1688580
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Spaceport Crew,  1688590
+OS: Windows 10Processor: Quad Core Intel or AMD ProcessorMemory: 4 GB RAMGraphics: GTX 660 or betterDirectX: Version 10Storage: 2 GB available spaceAdditional Notes: These Requirements are not final, and untested
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cleanup on Isle Goblin,  1688640
+OS: TBDProcessor: TBDGraphics: TBD
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Driftmaster Playtest,  1688650
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Experience x3 - Asdivine Saga,  1688680
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+SP x3 - Asdivine Saga,  1688681
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Experience & SP x2 - Asdivine Saga,  1688682
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Damage x2 - Asdivine Saga,  1688683
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Full Restore - Asdivine Saga,  1688684
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+DeadLock,  1688690
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Light Fighter,  1688780
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+FILMECHANISM Demo,  1688790
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Monkey Tantrum,  1688800
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tiger Tank 59 Ⅰ Break The Fog MP096,  1687905
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tiger Tank 59 Ⅰ Break The Fog MP097,  1687906
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tiger Tank 59 Ⅰ Break The Fog MP098,  1687907
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tiger Tank 59 Ⅰ Break The Fog MP099,  1687908
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Tiger Tank 59 Ⅰ Break The Fog MP100,  1687909
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+萝莉的远征,  1687940
+OS: Microsoft® Windows® XP / Vista / 7Processor: PC with 2.0GHz Intel® Pentium®4 equivalent or higher processorMemory: 512 MB RAMGraphics: 1024x768 or better video resolutionStorage: 500 MB available spaceSound Card: DirectSound-compatible sound card
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Patron Playtest,  1687970
+Requires a 64-bit processor and operating systemOS: Windows® 10 (64-bit)Processor: Intel™ Core i7-3770 or AMD Ryzen™ 5 1600Memory: 8 GB RAMGraphics: GeForce GTX 1060 6 GB or AMD Radeon™ RX 590 6 GBDirectX: Version 11Storage: 10 GB available spaceSound Card: DirectX compatible sound card
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Kselebox,  1687980
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Clunky Hero,  1687990
+Requires a 64-bit processor and operating system
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+My Cute Pagangirl - FREE Girls pack,  1688000
+OS: Windows 10Processor: 2,28 Ghz or fasteMemory: 16 GB RAMGraphics: OpenGL 3.0+ Compatible CardDirectX: Version 12Storage: 2 GB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Aeternum Vale,  1688080
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Panzer Corps 2: Pacific,  1688110
+OS: 64-bit Windows 8/10 (the game runs on Windows 7 but no support will be provided)Processor: Intel or AMD, Dual Core or better (Requires a 64-bit processor and operating system)Memory: 8 GB RAMGraphics: nVidia or AMD, 4GB of VRAMDirectX: Version 11Storage: 2 GB available spaceSound Card: DirectX compatible sound device
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Order of Battle: Allies Resurgent,  1688120
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Wave Shooter,  1688130
+OS: Windows XP/10/11Processor: Recommended ProcessorMemory: 20 GB RAMGraphics: Recommended Any cardStorage: 20 GB available spaceSound Card: Recommended YesAdditional Notes: no idea
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Time Travel Shanty,  1688140
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Neura Mechanicus-Prologue,  1688160
+Processor: 2 GHz dual-coreGraphics: Geforce GTX 1060 or better
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Welcome To... Chichester 2 - Part II : Of Frying Pans And Boxes Script,  1688170
+Additional Notes: Text reader needed
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+War Of Gold,  1688200
+Requires a 64-bit processor and operating systemOS: windows 10Processor: i7Memory: 16 GB RAMGraphics: nividia 3000DirectX: Version 9.0Storage: 17 GB available spaceSound Card: direct x9
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Utopia,  1688210
+Requires a 64-bit processor and operating systemOS: Windows 7 or LaterProcessor: i5 3GHz or Ryzen 5 3GhzMemory: 16 MB RAMGraphics: GeForce GTX 1060 or Radeon RX 580DirectX: Version 11Network: Broadband Internet connectionStorage: 3 GB available space
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
