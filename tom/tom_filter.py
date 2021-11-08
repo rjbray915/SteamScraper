@@ -9,7 +9,6 @@ def filter_titles(fn):
     
     l = []
     for d in data:
-        append = False
         i = 1
         for f in FILTER_LIST:
             # if bad word found, we break and move on to next data item
