@@ -21,9 +21,9 @@ def filter_titles(fn):
                  break
     print(len(x))
     print(len(l))
-    with open('SteamScraper/filtered.txt', 'w', encoding='utf-8') as f:
+    with open('filtered.txt', 'w', encoding='utf-8') as f:
         for i in l:
             f.write(i[0])
 
 
-filter_titles("SteamScraper/id_mappings.txt")
+filter_titles("id_mappings.txt")
