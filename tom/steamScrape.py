@@ -24,8 +24,7 @@ def steamScrape(scrapeList, scrapeResults, scrapeResume, rowNumResume, lineNumRe
         lineNumResume += 1
 
         # process line: separating game name from game id, and tracking file line number
-        if lineNumResume 
-        elif line == '':
+        if line == '':
             continue
         elif line == '+':
             continue
