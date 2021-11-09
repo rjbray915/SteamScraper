@@ -6,6 +6,7 @@ def filter_titles(fn):
     
     for i in range(len(data)):
         data[i] = data[i].lower()
+        print(data[i])
     
     l = []
     for d in data:
