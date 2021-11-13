@@ -1,8 +1,8 @@
 from bs4 import BeautifulSoup
 import requests
 
-id_file = open('id_mappings.txt', 'r', encoding='utf-8')
-languages_file = open('test_languages.txt', 'w', encoding='utf-8')
+id_file = open('SteamScraper/final/filtered_titles.txt', 'r', encoding='utf-8')
+dlc_file = open('test_dlc.txt', 'w', encoding='utf-8')
 
 for line in id_file:
     if line == '':
@@ -12,27 +12,30 @@ for line in id_file:
 
     game_name = line.split(',')[0]
     game_id = line.split(',')[1]
-    languages_file.write('\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n')
-    languages_file.write(game_name + ', ' + game_id)
-    print(game_name + ', ' + game_id)
+    dlc_file.write('\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n')
+    dlc_file.write(game_name + ', ' + game_id)
 
+    game_id = str(281990)
     URL = 'https://store.steampowered.com/app/' + game_id
     page = requests.get(URL)
 
     soup = BeautifulSoup(page.content, 'html.parser')
-    language_table = soup.find(class_='game_language_options')
+    dlc_table = soup.find(class_='gameDlcBlocks')
 
     #print(language_table)
-    if language_table is None:
+    if dlc_table is None:
         continue
-
-    languages = language_table.find_all(class_='ellipsis')
-
-    for language in languages:
-        if language == '':
+    dlc_prices = dlc_table.find_all(class_ ='game_area_dlc_price')
+    dlc_names = dlc_table.find_all(class_ ='game_area_dlc_name')
+    print(dlc_prices)
+   
+    dlcs = [(name, price) for name in dlc_names for price in dlc_prices]
+   
+    print(dlc_names)
+    for dlc in dlcs:
+        if dlc == '':
             continue
-
-        languages_file.write(language.text.strip() + '\n')
-
-languages_file.close()
+        #dlc_file.write(dlc[0].strip() + ', ' +  dlc[1].strip() + '\n')
+    break;
+dlc_file.close()
 id_file.close()
