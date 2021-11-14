@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 
-id_file = open('id_mappings.txt', 'r', encoding='utf-8')
+id_file = open('tan_filtered.txt', 'r', encoding='utf-8')
 recommended_file = open('test_recommended.txt', 'w', encoding='utf-8')
 
 for line in id_file:
@@ -13,6 +13,7 @@ for line in id_file:
     game_name = line.split(',')[0]
     game_id = line.split(',')[1]
     recommended_file.write('\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n')
+    print('\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n')
     recommended_file.write(game_name + ', ' + game_id)
     print(game_name + ', ' + game_id)
 
@@ -26,7 +27,8 @@ for line in id_file:
     if recommended_table is None:
         continue
 
-    recommendeds = recommended_table.find_all(class_='bb_ul')
+    #recommendeds = recommended_table.find_all(class_='bb_ul')
+    recommendeds = recommended_table.find_all('li')
 
     for recommended in recommendeds:
         if recommended == '':
