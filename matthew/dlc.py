@@ -9,7 +9,7 @@ def dlc(game_name, game_id):
     i = 0
 
     
-
+ 
     URL = 'https://store.steampowered.com/app/' + game_id
     page = requests.get(URL)
 
@@ -48,7 +48,7 @@ def main():
         game_id = line.split(',')[1].strip()
         arguments.append((game_name, game_id))
     
-    with mp.Pool(5) as p:
+    with mp.Pool(10) as p:
         p.starmap(dlc, arguments)
 #dlc(game_name, game_id)
     id_file.close()
