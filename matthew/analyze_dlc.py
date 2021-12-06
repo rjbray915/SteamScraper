@@ -59,11 +59,15 @@ def analyze(values):
 
 
     histogram = plt.hist(nprice, bins=10, range=[0.0, 50])
-    plt.title("Prices of Steam DLC in increments of $10")
+    plt.title("Steam DLC prices")
+    plt.xlabel("Price of DLC in USD")
+    plt.ylabel("Number of DLC")
     plt.show()
     
     histogram1 = plt.hist(npercent, bins=5, range=[0.0, 100])
-    plt.title("Percentages off for Steam DLC")
+    plt.title("Steam DLC Sales")
+    plt.xlabel("Percentage off original price")
+    plt.ylabel("Number of DLC")
     plt.show()
     
 
