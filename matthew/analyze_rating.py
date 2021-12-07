@@ -17,7 +17,7 @@ def output(arr, name):
     max = np.max(p)
     min = np.min(p)
     dev = np.std(p)
-    print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n" + name)
+    print(name)
     print("     Mean: ", round(average, 2))
     print("     Median: ", round(median,2))
     print("     Mode: ", mode[0][0] , " | Count: ", mode[1][0])
@@ -27,7 +27,7 @@ def output(arr, name):
     print("     Total considered: ", len(p))
     return p
 
-def analyze(rows):
+def analyze(rows, genre=''):
     ratings = []
     error_count = 0
     for row in rows:
@@ -53,13 +53,41 @@ def analyze(rows):
             error_count += 1
     r = output(ratings, "RATINGS")
     print("     # of entries removed: ", error_count)
-
+    if 0 not in ratings:
+        ratings.append(0)
     counts = np.unique(r, return_counts=True)
+
     print(counts)
-    plt.bar(["Overwhelmingly\nNegative", "Very\nNegative", "Negative", 
+    if 0 not in counts[0]:
+        plt.bar(["Very\nNegative", "Negative", 
                      "Mixed", "Positive", "Very\nPositive", "Overwhelmingly\nPositive"], counts[1])
+    elif 1 not in counts[0]:
+        plt.bar(["Overwhelmingly\nNegative", "Negative", 
+                     "Mixed", "Positive", "Very\nPositive", "Overwhelmingly\nPositive"], counts[1])
+    elif 2 not in counts[0]:
+        plt.bar(["Overwhelmingly\nNegative", "Very\nNegative",
+                     "Mixed", "Positive", "Very\nPositive", "Overwhelmingly\nPositive"], counts[1])
+    elif 3 not in counts[0]:
+        plt.bar(["Overwhelmingly\nNegative", "Very\nNegative", "Negative", 
+                    "Positive", "Very\nPositive", "Overwhelmingly\nPositive"], counts[1])
+    elif 4 not in counts[0]:
+        plt.bar(["Overwhelmingly\nNegative", "Very\nNegative", "Negative", 
+                     "Mixed", "Very\nPositive", "Overwhelmingly\nPositive"], counts[1])
+    elif 5 not in counts[0]:
+        plt.bar(["Overwhelmingly\nNegative", "Very\nNegative", "Negative", 
+                     "Mixed", "Positive", "Overwhelmingly\nPositive"], counts[1])
+    elif 6 not in counts[0]:
+        plt.bar(["Overwhelmingly\nNegative", "Very\nNegative", "Negative", 
+                     "Mixed", "Positive", "Very\nPositive"], counts[1])
+    else:
+        plt.bar(["Overwhelmingly\nNegative", "Very\nNegative", "Negative", 
+                     "Mixed", "Positive", "Very\nPositive", "Overwhelmingly\nPositive"], counts[1]) 
+    
     #histogram = plt.hist(r, bins=6, range=[0, 6])
-    plt.title("Steam Game Ratings", fontsize=16)
+    if genre == '':
+        plt.title("Steam Game Ratings", fontsize=16)
+    else:
+        plt.title("Steam Game Ratings: " + genre, fontsize=16)
     plt.xlabel("Rating", fontsize=14)
     plt.ylabel("Number of Games", fontsize=14)
     plt.show()
