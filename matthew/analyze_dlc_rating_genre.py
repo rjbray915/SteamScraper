@@ -49,13 +49,13 @@ for row in rows:
         if row[0] not in genres[genre]:
             genres[genre].append(row[0])
 
-rating_by_genre(genres, rating_list, 'Action')
+"""rating_by_genre(genres, rating_list, 'Action')
 rating_by_genre(genres, rating_list, 'Adventure')
 rating_by_genre(genres, rating_list, 'Casual')
 rating_by_genre(genres, rating_list, 'Indie')
-rating_by_genre(genres, rating_list, 'Simulation')
-"""dlc_by_genre(genres, dlc_list, 'Action')
+rating_by_genre(genres, rating_list, 'Simulation')"""
+dlc_by_genre(genres, dlc_list, 'Action')
 dlc_by_genre(genres, dlc_list, 'Adventure')
 dlc_by_genre(genres, dlc_list, 'Casual')
 dlc_by_genre(genres, dlc_list, 'Indie')
-dlc_by_genre(genres, dlc_list, 'Simulation')"""
+dlc_by_genre(genres, dlc_list, 'Simulation')

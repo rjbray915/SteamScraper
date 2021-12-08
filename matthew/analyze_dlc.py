@@ -29,7 +29,7 @@ def output(arr, name):
     
 
 
-def analyze(values, genre = 'a'):
+def analyze(values, genre = ''):
     error_count = 0
     prices = []
     percentages = []
@@ -42,7 +42,6 @@ def analyze(values, genre = 'a'):
                     v = value[index:]
                     index2 = value.find('%')
                     percentages.append(float(value[2:index2]))
-
                 x = v.replace('$', '')
                 try:
                     price = float(x)
@@ -50,7 +49,9 @@ def analyze(values, genre = 'a'):
                     error_count += 1
                     continue
                 prices.append(price)
-    
+            if "Free" in value or "free" in value:
+                prices.append(0.0)
+
     nprice = output(prices, "PRICES")
     print("     # DLCs ignored due to bad formatting: ", error_count)
     npercent = output(percentages, "PERCENTAGE OFF")
