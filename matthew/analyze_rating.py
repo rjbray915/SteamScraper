@@ -3,7 +3,7 @@ from scipy import stats
 import matplotlib.pyplot as plt
 
 def read_rating():
-    with open("matthew/test_rating.csv", encoding="utf-8") as dlc:
+    with open("test_rating.csv", encoding="utf-8") as dlc:
         values = []
         for line in dlc.readlines():
             values.append(line.split(','))
@@ -85,9 +85,9 @@ def analyze(rows, genre=''):
     
     #histogram = plt.hist(r, bins=6, range=[0, 6])
     if genre == '':
-        plt.title("Steam Game Ratings", fontsize=16)
+        plt.title("Steam App Ratings", fontsize=16)
     else:
-        plt.title("Steam Game Ratings: " + genre, fontsize=16)
+        plt.title("Steam App Ratings: " + genre, fontsize=16)
     plt.xlabel("Rating", fontsize=14)
     plt.ylabel("Number of Games", fontsize=14)
     plt.show()
